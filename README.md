@@ -1,4 +1,6 @@
-# zenn-website
+# try-nuxtjs-zenn-book
+
+[画像の利用｜Nuxt.js を用いた静的サイト制作入門](https://zenn.dev/mikakane/books/nuxtjs-website/viewer/5)
 
 ## Build Setup
 
