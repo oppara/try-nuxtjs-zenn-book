@@ -28,6 +28,9 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
+label {
+  color: red;
+}
 
 </style>
